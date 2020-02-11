@@ -23,11 +23,11 @@ Hello world style app using flask and docker and redis backed pgae hits counter
 Running the stack:
 
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 
 Stopping the stack
 
 ```bash
-docker-compose up
+docker-compose down
 ```
